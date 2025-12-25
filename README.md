@@ -64,17 +64,11 @@ All validation logic is implemented inside the Service layer
 Controllers are kept thin and only responsible for request/response handling
 DTOs are used to store input data before processing
 
+
+
 🎯 Purpose of This Project
 Practice building REST APIs using Spring Boot
 Understand backend layering and separation of concerns
 Learn how to structure Controller, Service, DTO, and Model
 Prepare a foundation before integrating database (JPA & SQL)
 
-🚧 Future Improvements
-Integrate database using JPA & MySQL
-Add persistent data storage
-Improve error handling and response structure
-
-👩‍💻 Author
-
-Faisha Fasha Natasya Putri
